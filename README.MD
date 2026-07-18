@@ -24,6 +24,18 @@ All requests are routed through a centralized **API Gateway**.
 
 ##  System Architecture
 
+```
+                        Client
+                           │
+                           ▼
+                  API Gateway (8080)
+                           │
+      ┌────────────────────┼────────────────────┐
+      ▼                    ▼                    ▼                   ▼
+Transformer Service   Sensor Service      Alert Service     Maintenance Service
+      8081                 8082                8083                 8084
+            └──────────── RestTemplate Communication ────────────┘
+```
 
 
 ## Workflow
