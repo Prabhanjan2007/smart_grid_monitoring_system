@@ -318,6 +318,37 @@ Example workflows tested:
 - Postman Testing
 
 
+
+## Output (Postman testing)
+
+![alt text](alert_1-1.png) 
+![alt text](alert_2-1.png) 
+![alt text](alert_3-1.png) 
+![alt text](alert_4-1.png) 
+![alt text](alert_5-1.png) 
+![alt text](alert_6-1.png) 
+![alt text](alert_7-1.png) 
+![alt text](alert_8-1.png) 
+![alt text](maintenance_1-1.png) 
+![alt text](maintenance_2-1.png) 
+![alt text](maintenance_3-1.png) 
+![alt text](maintenance_4-1.png) 
+![alt text](maintenance_5-1.png) 
+![alt text](maintenance_6-1.png) 
+![alt text](maintenance_7-1.png) 
+![alt text](maintenance_8-1.png) 
+![alt text](<Screenshot 2026-07-21 225126-1.png>) 
+![alt text](<Screenshot 2026-07-21 225401-1.png>) 
+![alt text](<Screenshot 2026-07-21 225559-1.png>) 
+![alt text](<Screenshot 2026-07-21 225642-1.png>) 
+![alt text](<Screenshot 2026-07-21 225717-1.png>) 
+![alt text](serivce_3-1.png) 
+![alt text](service_1-1.png) 
+![alt text](service_2-1.png) 
+![alt text](service_4-1.png) 
+![alt text](service_5-1.png) 
+![alt text](service_6-1.png)
+
 ## Author
 
 **Prabhanjan B**
